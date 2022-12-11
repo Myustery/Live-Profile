@@ -1,25 +1,31 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/002/48/83/16_avatar_middle.jpg" group-title="主机其他游戏", 寅子
 https://epg.112114.xyz/douyu/71415
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201905/badbf01f7ab943358bf78bcd9245305f_middle.jpg" group-title="CS:GO", 玩机器丶Machine
-https://epg.112114.xyz/douyu/6979222
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201702/28/19/f3aa837f49f305aa202b793c550cb108_big.jpg" group-title="主机其他游戏", 主播阿飞
 https://epg.112114.xyz/douyu/84452
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202208/bacdca6d54c44d149b477945205b0b4d_middle.jpg" group-title="二次元", 尤优Baby
-https://epg.112114.xyz/douyu/1769784
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201808/e2b4d01edd7dd82f44efeb434a0d3a86_middle.jpg" group-title="CS:GO", 椰汁糕冬瓜强
-https://epg.112114.xyz/douyu/63136
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202206/f382f1adbcdb4adebe186898e8babc55_middle.jpg" group-title="二次元", 贝拉小姐姐
-https://epg.112114.xyz/douyu/3276456
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/face/201603/907e80665f7e2b6a223655912e583c26_big.jpg" group-title="主机其他游戏", 午夜抹抹茶
-https://epg.112114.xyz/douyu/80432
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201801/30/11/e4a5a931f99fe8b6224d0fe1a54311cc_big.jpg" group-title="主机其他游戏", 太原杨树
 https://epg.112114.xyz/douyu/703747
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar/face/201603/907e80665f7e2b6a223655912e583c26_big.jpg" group-title="主机其他游戏", 午夜抹抹茶
+https://epg.112114.xyz/douyu/80432
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201810/3bb41536cdb40cc3b64ef43b7192aa6c_big.jpg" group-title="主机其他游戏", 尐表哥
 https://epg.112114.xyz/douyu/217331
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201905/badbf01f7ab943358bf78bcd9245305f_middle.jpg" group-title="CS:GO", 玩机器丶Machine
+https://epg.112114.xyz/douyu/6979222
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201808/e2b4d01edd7dd82f44efeb434a0d3a86_middle.jpg" group-title="CS:GO", 椰汁糕冬瓜强
+https://epg.112114.xyz/douyu/63136
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201706/07/15/5c968af560187b8729b72d2dad36e0f0_big.jpg" group-title="CS:GO", loveyou_qq
+https://epg.112114.xyz/douyu/52319
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202206/fb0defa21b89445c9829226a91ef2d93_big.jpg" group-title="CS:GO", CSGO百岁三
+https://epg.112114.xyz/douyu/10625373
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202208/bacdca6d54c44d149b477945205b0b4d_middle.jpg" group-title="二次元", 尤优Baby
+https://epg.112114.xyz/douyu/1769784
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202206/f382f1adbcdb4adebe186898e8babc55_middle.jpg" group-title="二次元", 贝拉小姐姐
+https://epg.112114.xyz/douyu/3276456
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202204/15972b07f49c4f64be184c4064f4cfb8_big.jpg" group-title="主机其他游戏", 阿愈Ayu
 https://epg.112114.xyz/douyu/2736403
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202105/2435071a5789406e98195a5490e4b4b6_big.jpg" group-title="英雄联盟", Chogod虫王
-https://epg.112114.xyz/douyu/7940025
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202111/c7e32bbd43484072b91f65c1d12cc8a4_big.jpg" group-title="主机其他游戏", 主播杰克曼
 https://epg.112114.xyz/douyu/48748
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202105/2435071a5789406e98195a5490e4b4b6_big.jpg" group-title="英雄联盟", Chogod虫王
+https://epg.112114.xyz/douyu/7940025
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202105/7c383edfd9a341fd80c6be0508baadf5_big.jpg" group-title="英雄联盟", 放逐大帝灬
+https://epg.112114.xyz/douyu/5377721
