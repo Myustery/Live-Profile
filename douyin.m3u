@@ -1,7 +1,9 @@
 #EXTM3U
 # #EXTINF:-1 tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
-# http://10.0.10.119:35455/douyin/379415192383?stream=hls
+# http://10.0.10.12:35455/douyin/379415192383?stream=hls
 #EXTINF:-1 tvg-name="N Y." tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_45da47d1db6586d96d7d4d1e7b50d8eb.jpeg?from=3067671334" group-title="颜值",N Y.
-http://10.0.10.119:35455/douyin/184867263939?stream=hls
+http://10.0.10.12:35455/douyin/184867263939?stream=hls
 #EXTINF:-1 tvg-name="褚美慧holly" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_7f86381524cc3d6e2e6167ac9fa3b2f6.jpeg?from=3067671334" group-title="颜值",褚美慧holly
-http://10.0.10.119:35455/douyin/609499664454?stream=hls
+http://10.0.10.12:35455/douyin/609499664454?stream=hls
+EXTINF:-1 tvg-name="姜棠💕" tvg-logo="https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_10089da9a3a73b7ad25fac71eaf6038c~c5_300x300.jpeg?from=2956013662" group-title="颜值",姜棠💕
+http://10.0.10.12:35455/douyin/609499664454?stream=hls
