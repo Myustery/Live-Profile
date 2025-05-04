@@ -21,3 +21,11 @@ http://10.0.10.12:35455/douyin/802032233033?stream=hls
 http://10.0.10.12:35455/douyin/360216411433?stream=hls
 #EXTINF:-1 tvg-name="福图图子" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_6769d101ed53d2d68b0624480ef03eb5.jpeg?from=3067671334" group-title="颜值",福图图子
 http://10.0.10.12:35455/douyin/670296059824?stream=hls
+#EXTINF:-1 tvg-name="云兮." tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_2037dd3e7d910c28d3b04dc8c433b693.jpeg?from=3067671334" group-title="颜值",云兮.
+http://10.0.10.12:35455/douyin/558757783893?stream=hls
+#EXTINF:-1 tvg-name="时光慢些吧" tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_4486f8c9b2f0c613935bc126d55bd765.jpeg?from=3067671334" group-title="游戏",时光慢些吧
+http://10.0.10.12:35455/douyin/518999902266?stream=hls
+#EXTINF:-1 tvg-name="王沐川" tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-c9aec8xkvj_f801dbcfd98b42b8af1722deae84e36e.jpeg?from=3067671334" group-title="游戏",王沐川
+http://10.0.10.12:35455/douyin/372576858880?stream=hls
+#EXTINF:-1 tvg-name="电竞讲师胖森" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_2f6680005d00417d356c2.jpeg?from=3067671334" group-title="游戏",电竞讲师胖森
+http://10.0.10.12:35455/douyin/566388326775?stream=hls
