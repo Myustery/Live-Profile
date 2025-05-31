@@ -57,3 +57,7 @@ http://10.0.10.12:35455/douyin/331236482630?stream=flv
 http://10.0.10.12:35455/douyin/26371833940?stream=flv
 #EXTINF:-1 tvg-name="阿浩讲台球" tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_db7b55b376b4e7392e5675c1b243222f.jpeg?from=3067671334" group-title="体育",阿浩讲台球
 http://10.0.10.12:35455/douyin/627846390735?stream=flv
+#EXTINF:-1 tvg-name="张良讲台球" tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_993578f273eebf5fd9c2f65e5b4aac83.jpeg?from=3067671334" group-title="体育",张良讲台球
+http://10.0.10.12:35455/douyin/7995678790?stream=flv
+#EXTINF:-1 tvg-name="丷Bling" tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_f333e1c02cac33780d6b208528d631ac.jpeg?from=3067671334" group-title="游戏",丷Bling
+http://10.0.10.12:35455/douyin/256423349323?stream=flv
