@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="主播杨树" tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_oYGwAAWieexfPKBipwA1HIAKEAg0J7BxJIREiE.jpeg?from=3067671334" group-title="游戏",主播杨树
+http://10.0.10.12:35455/douyin/456497901213?stream=flv
 #EXTINF:-1 tvg-name="N Y." tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_45da47d1db6586d96d7d4d1e7b50d8eb.jpeg?from=3067671334" group-title="颜值",N Y.
 http://10.0.10.12:35455/douyin/184867263939?stream=flv
 #EXTINF:-1 tvg-name="褚美慧holly" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_7f86381524cc3d6e2e6167ac9fa3b2f6.jpeg?from=3067671334" group-title="颜值",褚美慧holly
@@ -101,3 +103,7 @@ http://10.0.10.12:35455/douyin/270375690605?stream=flv
 http://10.0.10.12:35455/douyin/450493766073?stream=flv
 #EXTINF:-1 tvg-name="白井秋绘" tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_6d383c0c47dd36758e0a94c2838afad3.jpeg?from=3067671334" group-title="音乐",白井秋绘
 http://10.0.10.12:35455/douyin/397149426306?stream=flv
+#EXTINF:-1 tvg-name="Molly" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_282c394ae4790ead60fdf1f75ac29399.jpeg?from=3067671334" group-title="颜值",Molly
+http://10.0.10.12:35455/douyin/401212169866?stream=flv
+#EXTINF:-1 tvg-name="璟曦" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c000-ce_oMCge8f0AAADA2h3AQL41j4GvehvGe4ITDJDXg.jpeg?from=3067671334" group-title="颜值",璟曦
+http://10.0.10.12:35455/douyin/989326207597?stream=flv
