@@ -119,3 +119,7 @@ http://10.0.10.12:35455/douyin/402392024295?stream=flv
 http://10.0.10.12:35455/douyin/556373977266?stream=flv
 #EXTINF:-1 tvg-name="黄大楼" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_26d21d051ac141d7b58c447bdc7415d3.jpeg?from=3067671334" group-title="游戏",黄大楼
 http://10.0.10.12:35455/douyin/848175761759?stream=flv
+#EXTINF:-1 tvg-name="喜欢小狗" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_54fee48c68de5eccf1c99428fd04cc0e.jpeg?from=3067671334" group-title="颜值",喜欢小狗
+http://10.0.10.12:35455/douyin/143847927338?stream=flv
+#EXTINF:-1 tvg-name="谁吃了我的火龙果" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_9f801d78bcf65eebfb2e7a61c194b14a.jpeg?from=3067671334" group-title="颜值",谁吃了我的火龙果
+http://10.0.10.12:35455/douyin/831645245348?stream=flv
