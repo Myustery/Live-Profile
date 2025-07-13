@@ -133,3 +133,5 @@ http://10.0.10.12:35455/douyin/576544302571?stream=flv
 http://10.0.10.12:35455/douyin/659202059172?stream=flv
 #EXTINF:-1 tvg-name="小熊" tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_c1cbfefe3e65bf1a2413e77b3ba32a2e.jpeg?from=3067671334" group-title="颜值",小熊
 http://10.0.10.12:35455/douyin/542551247547?stream=flv
+#EXTINF:-1 tvg-name="老龙女和粑粑人" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_e72955dae6bbd69742f7c33945af57d8.jpeg?from=3067671334" group-title="游戏",老龙女和粑粑人
+http://10.0.10.12:35455/douyin/890779695421?stream=flv
