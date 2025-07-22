@@ -145,3 +145,7 @@ http://10.0.10.12:35455/douyin/732456565160?stream=flv
 http://10.0.10.12:35455/douyin/685233209126?stream=flv
 #EXTINF:-1 tvg-name="小雨日报" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_0039f849a24fed23848c9b8fec3cb198.jpeg?from=3067671334" group-title="颜值",小雨日报
 http://10.0.10.12:35455/douyin/773440671757?stream=flv
+#EXTINF:-1 tvg-name="第二可爱" tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_835b948b2622e61cb222468f7ce23767.jpeg?from=3067671334" group-title="颜值",第二可爱
+http://10.0.10.12:35455/douyin/298177489672?stream=flv
+#EXTINF:-1 tvg-name="熊暴尼" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_2ce0b096dad9033df237e7357d73461e.jpeg?from=3067671334" group-title="颜值",熊暴尼
+http://10.0.10.12:35455/douyin/958219741428?stream=flv
