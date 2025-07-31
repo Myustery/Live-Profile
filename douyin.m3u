@@ -151,3 +151,7 @@ http://10.0.10.12:35455/douyin/298177489672?stream=flv
 http://10.0.10.12:35455/douyin/958219741428?stream=flv
 #EXTINF:-1 tvg-name="小水一号" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_77f24329d5a34286eabab8dcb924ea31.jpeg?from=3067671334" group-title="颜值",小水一号
 http://10.0.10.12:35455/douyin/231640982929?stream=flv
+#EXTINF:-1 tvg-name="一颗柚柚" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_2aa618f81a8718baf04a5c82c8e64658.jpeg?from=3067671334" group-title="颜值",一颗柚柚
+http://10.0.10.12:35455/douyin/232153778087?stream=flv
+#EXTINF:-1 tvg-name="沈斯禾" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_bf51c7c56d4e8ea114cd55a0b96fcba8.jpeg?from=3067671334" group-title="颜值",沈斯禾
+http://10.0.10.12:35455/douyin/16458937610?stream=flv
