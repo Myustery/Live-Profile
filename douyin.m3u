@@ -151,6 +151,8 @@ http://10.0.10.12:35455/douyin/298177489672?stream=flv
 http://10.0.10.12:35455/douyin/958219741428?stream=flv
 #EXTINF:-1 tvg-name="小水一号" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_77f24329d5a34286eabab8dcb924ea31.jpeg?from=3067671334" group-title="颜值",小水一号
 http://10.0.10.12:35455/douyin/231640982929?stream=flv
+#EXTINF:-1 tvg-name="小水二号" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_835b6aca845251f4ad3cc02f45e06dc1.jpeg?from=3067671334" group-title="颜值",小水二号
+http://10.0.10.12:35455/douyin/238151829739?stream=flv
 #EXTINF:-1 tvg-name="一颗柚柚" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_2aa618f81a8718baf04a5c82c8e64658.jpeg?from=3067671334" group-title="颜值",一颗柚柚
 http://10.0.10.12:35455/douyin/232153778087?stream=flv
 #EXTINF:-1 tvg-name="沈斯禾" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_bf51c7c56d4e8ea114cd55a0b96fcba8.jpeg?from=3067671334" group-title="颜值",沈斯禾
@@ -177,3 +179,9 @@ http://10.0.10.12:35455/douyin/226457912109?stream=flv
 http://10.0.10.12:35455/douyin/561135266500?stream=flv
 #EXTINF:-1 tvg-name="坏空空🍓" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_3298ef18e5a484692606214f9f503424.jpeg?from=3067671334" group-title="颜值",坏空空🍓
 http://10.0.10.12:35455/douyin/169169672663?stream=flv
+#EXTINF:-1 tvg-name="杰尼龟" tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_344ea2338b17250c502abcedcba3d80e.jpeg?from=3067671334" group-title="颜值",杰尼龟
+http://10.0.10.12:35455/douyin/702740748264?stream=flv
+#EXTINF:-1 tvg-name="任白" tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_ac6eb493aff69f4c365fd73cde46f669.jpeg?from=3067671334" group-title="音乐",任白
+http://10.0.10.12:35455/douyin/628365221831?stream=flv
+#EXTINF:-1 tvg-name="小乔不是大乔" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_3cd3220453455d77eea9af407d8c5be6.jpeg?from=3067671334" group-title="音乐",小乔不是大乔
+http://10.0.10.12:35455/douyin/484308040985?stream=flv
