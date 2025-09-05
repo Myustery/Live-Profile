@@ -191,3 +191,5 @@ http://10.0.10.12:35455/douyin/496235086426?stream=flv
 http://10.0.10.12:35455/douyin/660460994480?stream=flv
 #EXTINF:-1 tvg-name="呐呐" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_cc11edad88e68bda284f214930011a45.jpeg?from=3067671334" group-title="颜值",呐呐
 http://10.0.10.12:35455/douyin/824524991706?stream=flv
+#EXTINF:-1 tvg-name="巧" tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_d8259ed580075802be38b009b856913b.jpeg?from=3067671334" group-title="颜值",巧
+http://10.0.10.12:35455/douyin/734553393254?stream=flv
