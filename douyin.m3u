@@ -211,3 +211,7 @@ http://192.168.110.12:35455/douyin/rid/625840109148?stream=flv
 http://192.168.110.12:35455/douyin/rid/909927995061?stream=flv
 #EXTINF:-1 tvg-name="兮困了" tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_b9c300908803b82454083cb129831717.jpeg?from=3067671334" group-title="颜值",兮困了
 http://192.168.110.12:35455/douyin/rid/6442040807?stream=flv
+#EXTINF:-1 tvg-name="我是最有钱的皇帝" tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_b8f7c71877bb5ccd5a3b6f2e081acb7d.jpeg?from=3067671334" group-title="颜值",我是最有钱的皇帝
+http://192.168.110.12:35455/douyin/rid/773215281211?stream=flv
+#EXTINF:-1 tvg-name="四季奶青ovo" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_c6d402c0bc707b96b4b3f30ff10d3ae2.jpeg?from=3067671334" group-title="颜值",四季奶青ovo
+http://192.168.110.12:35455/douyin/rid/961591333782?stream=flv
