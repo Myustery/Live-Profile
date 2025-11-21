@@ -215,3 +215,5 @@ http://192.168.110.12:35455/douyin/rid/6442040807?stream=flv
 http://192.168.110.12:35455/douyin/rid/773215281211?stream=flv
 #EXTINF:-1 tvg-name="四季奶青ovo" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_c6d402c0bc707b96b4b3f30ff10d3ae2.jpeg?from=3067671334" group-title="颜值",四季奶青ovo
 http://192.168.110.12:35455/douyin/rid/961591333782?stream=flv
+#EXTINF:-1 tvg-name="Smile雅静" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_e05c620c838fe8ec2b00c021e9e139ec.jpeg?from=3067671334" group-title="颜值",Smile雅静
+http://192.168.110.12:35455/douyin/rid/776945671761?stream=flv
