@@ -225,3 +225,5 @@ http://192.168.110.12:35455/douyin/rid/588601059140?stream=flv
 http://192.168.110.12:35455/douyin/rid/703940802949?stream=flv
 #EXTINF:-1 tvg-name="香香宝贝" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_a0b611a1aac621a3b55b6dda5c792e8f.jpeg?from=3067671334" group-title="颜值",香香宝贝
 http://192.168.110.12:35455/douyin/rid/135438115353?stream=flv
+#EXTINF:-1 tvg-name="小七哥哥" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_9c106e35740f245211239cb14f9d4556.jpeg?from=3067671334" group-title="颜值",小七哥哥
+http://192.168.110.12:35455/douyin/rid/585130264784?stream=flv
