@@ -229,3 +229,5 @@ http://192.168.110.12:35455/douyin/rid/135438115353?stream=flv
 http://192.168.110.12:35455/douyin/rid/585130264784?stream=flv
 #EXTINF:-1 tvg-name="用户1009965899168" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_osNyYMgIikBAOCliShCiBzVuyAdAeAAAEn0Nf7.jpeg?from=3067671334" group-title="音乐",用户1009965899168
 http://192.168.110.12:35455/douyin/rid/472397315885?stream=flv
+#EXTINF:-1 tvg-name="爱喝马桶水" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_5b038d041c9c5ac2f8ae832d9c868ede.jpeg?from=3067671334" group-title="颜值",爱喝马桶水
+http://192.168.110.12:35455/douyin/rid/784595486650?stream=flv
