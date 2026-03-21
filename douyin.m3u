@@ -233,3 +233,7 @@ http://192.168.110.12:35455/douyin/rid/472397315885?stream=flv
 http://192.168.110.12:35455/douyin/rid/784595486650?stream=flv
 #EXTINF:-1 tvg-name="小小奈酱" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_1f14e4e4292d42718ad7dd4dc2f4327c.jpeg?from=3067671334" group-title="颜值",小小奈酱
 http://192.168.110.12:35455/douyin/rid/75989332594?stream=flv
+#EXTINF:-1 tvg-name="文森特" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_15106280ee4e91ddfaacaad676bc13cd.jpeg?from=3067671334" group-title="游戏",文森特
+http://192.168.110.12:35455/douyin/rid/398094734626?stream=flv
+#EXTINF:-1 tvg-name="偷心九月天" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_a0153112bdddefdc1c3d9b2d6c888a35.jpeg?from=3067671334" group-title="颜值",偷心九月天
+http://192.168.110.12:35455/douyin/rid/205048140143?stream=flv
