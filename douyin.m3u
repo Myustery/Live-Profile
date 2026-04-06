@@ -133,6 +133,8 @@ http://192.168.110.12:35455/douyin/rid/576544302571?stream=flv
 http://192.168.110.12:35455/douyin/rid/659202059172?stream=flv
 #EXTINF:-1 tvg-name="小熊" tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_c1cbfefe3e65bf1a2413e77b3ba32a2e.jpeg?from=3067671334" group-title="颜值",小熊
 http://192.168.110.12:35455/douyin/rid/542551247547?stream=flv
+#EXTINF:-1 tvg-name="小熊官方号" tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_ad5e18f72c47ae2585c3f6f4b4fc34ed.jpeg?from=3067671334" group-title="颜值",小熊官方号
+http://192.168.110.12:35455/douyin/rid/897831811837?stream=flv
 #EXTINF:-1 tvg-name="老龙女和粑粑人" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_e72955dae6bbd69742f7c33945af57d8.jpeg?from=3067671334" group-title="游戏",老龙女和粑粑人
 http://192.168.110.12:35455/douyin/rid/890779695421?stream=flv
 #EXTINF:-1 tvg-name="易梦丹" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_e0fe54128e772ebc11f33063933ebe93.jpeg?from=3067671334" group-title="颜值",易梦丹
@@ -237,8 +239,6 @@ http://192.168.110.12:35455/douyin/rid/75989332594?stream=flv
 http://192.168.110.12:35455/douyin/rid/398094734626?stream=flv
 #EXTINF:-1 tvg-name="偷心九月天" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_a0153112bdddefdc1c3d9b2d6c888a35.jpeg?from=3067671334" group-title="颜值",偷心九月天
 http://192.168.110.12:35455/douyin/rid/205048140143?stream=flv
-#EXTINF:-1 tvg-name="香香宝贝" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_a0b611a1aac621a3b55b6dda5c792e8f.jpeg?from=3067671334" group-title="颜值",香香宝贝
-http://192.168.110.12:35455/douyin/rid/135438115353?stream=flv
 #EXTINF:-1 tvg-name="贝卡星" tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_d13281a6899cc17d4140bc83345c2953.jpeg?from=3067671334" group-title="颜值",贝卡星
 http://192.168.110.12:35455/douyin/rid/155816122234?stream=flv
 #EXTINF:-1 tvg-name="Rebecca" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_fadc3674fb54b4d75ae47a6b0caadc0c.jpeg?from=3067671334" group-title="音乐",Rebecca
