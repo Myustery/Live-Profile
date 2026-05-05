@@ -243,3 +243,7 @@ http://192.168.110.12:35455/douyin/rid/205048140143?stream=flv
 http://192.168.110.12:35455/douyin/rid/155816122234?stream=flv
 #EXTINF:-1 tvg-name="Rebecca" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_fadc3674fb54b4d75ae47a6b0caadc0c.jpeg?from=3067671334" group-title="音乐",Rebecca
 http://192.168.110.12:35455/douyin/rid/146721842804?stream=flv
+#EXTINF:-1 tvg-name="是双喜呀" tvg-logo="https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_7296b9db3b1d0f14979df4cbf35bc78d.jpeg?from=3067671334" group-title="颜值",是双喜呀
+http://192.168.110.12:35455/douyin/rid/592545033250?stream=flv
+#EXTINF:-1 tvg-name="+Six" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_f4809c61f4cf0ec9aa6a5c4fe8bd5f96.jpeg?from=3067671334" group-title="颜值",+Six
+http://192.168.110.12:35455/douyin/rid/806836884163?stream=flv
