@@ -1,39 +1,39 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="寅子" tvg-logo="https://apic.douyucdn.cn/upload/avatar/002/48/83/16_avatar_big.jpg" group-title="游戏", 寅子
-http://192.168.110.12:35455/douyu/71415?stream=flv
+http://192.168.3.10:35455/douyu/71415?stream=flv
 #EXTINF:-1 tvg-name="尐表哥" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201810/3bb41536cdb40cc3b64ef43b7192aa6c_big.jpg" group-title="游戏", 尐表哥
-http://192.168.110.12:35455/douyu/217331?stream=flv
+http://192.168.3.10:35455/douyu/217331?stream=flv
 #EXTINF:-1 tvg-name="午夜抹抹茶" tvg-logo="https://apic.douyucdn.cn/upload/avatar/face/201603/907e80665f7e2b6a223655912e583c26_big.jpg" group-title="游戏", 午夜抹抹茶
-http://192.168.110.12:35455/douyu/80432?stream=flv
+http://192.168.3.10:35455/douyu/80432?stream=flv
 #EXTINF:-1 tvg-name="主播阿飞" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201702/28/19/f3aa837f49f305aa202b793c550cb108_big.jpg" group-title="游戏", 主播阿飞
-http://192.168.110.12:35455/douyu/84452?stream=flv
+http://192.168.3.10:35455/douyu/84452?stream=flv
 #EXTINF:-1 tvg-name="Minana呀" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202111/5392f0755155478b933881cfdffccf0e_big.jpg" group-title="颜值", Minana呀
-http://192.168.110.12:35455/douyu/5551871?stream=flv
+http://192.168.3.10:35455/douyu/5551871?stream=flv
 #EXTINF:-1 tvg-name="小恩雅a" tvg-logo="https://c-yuba.douyucdn.cn/yubavod/b/peApMY8Gb7lJ/4a9731434fd614cc1c06f9bf9077ca37.jpeg" group-title="颜值", 小恩雅a
-http://192.168.110.12:35455/douyu/12740108?stream=flv
+http://192.168.3.10:35455/douyu/12740108?stream=flv
 #EXTINF:-1 tvg-name="玩机器丶Machine" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201905/badbf01f7ab943358bf78bcd9245305f_big.jpg" group-title="游戏", 玩机器丶Machine
-http://192.168.110.12:35455/douyu/6979222?stream=flv
+http://192.168.3.10:35455/douyu/6979222?stream=flv
 #EXTINF:-1 tvg-name="椰汁糕冬瓜强" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201808/e2b4d01edd7dd82f44efeb434a0d3a86_big.jpg" group-title="游戏", 椰汁糕冬瓜强
-http://192.168.110.12:35455/douyu/63136?stream=flv
+http://192.168.3.10:35455/douyu/63136?stream=flv
 #EXTINF:-1 tvg-name="贝拉小姐姐" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202208/7e908a17ced54f0a9e4eea6fd543500b_big.jpg" group-title="ASMR", 贝拉小姐姐
-http://192.168.110.12:35455/douyu/1125983?stream=flv
+http://192.168.3.10:35455/douyu/1125983?stream=flv
 #EXTINF:-1 tvg-name="余小C真的很强" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202107/7ba332e29d5a4210804b39d23fd56ea5_big.jpg" group-title="游戏", 余小C真的很强
-http://192.168.110.12:35455/douyu/1126960?stream=flv
+http://192.168.3.10:35455/douyu/1126960?stream=flv
 #EXTINF:-1 tvg-name="主播杰克曼" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202303/52e0c276d5b54fa39084dd9624e03504_big.jpg" group-title="游戏", 主播杰克曼
-http://192.168.110.12:35455/douyu/48748?stream=flv
+http://192.168.3.10:35455/douyu/48748?stream=flv
 #EXTINF:-1 tvg-name="老皮历险记" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201707/31/08/10261cc4580588526811b7a4da775de8_big.jpg" group-title="游戏", 老皮历险记
-http://192.168.110.12:35455/douyu/2140934?stream=flv
+http://192.168.3.10:35455/douyu/2140934?stream=flv
 #EXTINF:-1 tvg-name="主播秋山澪丶" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202201/8c299c829f3a42488a08705b21bd7c67_big.jpg" group-title="游戏", 主播秋山澪丶
-http://192.168.110.12:35455/douyu/229743?stream=flv
+http://192.168.3.10:35455/douyu/229743?stream=flv
 #EXTINF:-1 tvg-name="百里浪丶" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202211/38f80ed8948f4b5c88b92aedd20613f7_big.jpg" group-title="游戏", 百里浪丶
-http://192.168.110.12:35455/douyu/6525105?stream=flv
+http://192.168.3.10:35455/douyu/6525105?stream=flv
 #EXTINF:-1 tvg-name="十三三三" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201904/a96245bebe3e4491aa693bff4019825d_big.jpg" group-title="游戏", 十三三三
-http://192.168.110.12:35455/douyu/69752?stream=flv
+http://192.168.3.10:35455/douyu/69752?stream=flv
 #EXTINF:-1 tvg-name="阿愈Ayu" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202301/e8cf86af4a934f8cb485e1e49b0b1a06_big.jpg" group-title="游戏", 阿愈Ayu
-http://192.168.110.12:35455/douyu/2736403?stream=flv
+http://192.168.3.10:35455/douyu/2736403?stream=flv
 #EXTINF:-1 tvg-name="狐狸不太Sao" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201905/156ab616f8194624a59ae0774c62970b_big.jpg" group-title="游戏", 狐狸不太Sao
-http://192.168.110.12:35455/douyu/699689?stream=flv
+http://192.168.3.10:35455/douyu/699689?stream=flv
 #EXTINF:-1 tvg-name="陶可可coco" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202204/294c7c3745fd4d11a57184093edbf460_big.jpg" group-title="游戏", 陶可可coco
-http://192.168.110.12:35455/douyu/2501233?stream=flv
+http://192.168.3.10:35455/douyu/2501233?stream=flv
 #EXTINF:-1 tvg-name="熊猫大G" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202203/12d9e576c71248b4ae4b094906c82a9b_big.jpg" group-title="游戏", 熊猫大G
-http://192.168.110.12:35455/douyu/6556593?stream=flv
+http://192.168.3.10:35455/douyu/6556593?stream=flv
