@@ -269,3 +269,5 @@ http://192.168.3.10:35455/douyin/rid/117641472440?stream=flv
 http://192.168.3.10:35455/douyin/rid/110772432665?stream=flv
 #EXTINF:-1 tvg-name="十三区职业法师" tvg-logo="https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_9d7aeb87106be20f7e71df5d9130e93c.jpeg?from=3067671334" group-title="颜值",十三区职业法师
 http://192.168.3.10:35455/douyin/rid/55472981505?stream=flv
+#EXTINF:-1 tvg-name="玩机器CSGO" tvg-logo="https://p11.douyinpic.com/aweme/100x100/aweme-avatar/mosaic-legacy_2eb9200074ed7daa6e3a7.jpeg?from=3067671334" group-title="游戏",玩机器CSGO
+http://192.168.3.10:35455/douyin/rid/67876457927?stream=flv
